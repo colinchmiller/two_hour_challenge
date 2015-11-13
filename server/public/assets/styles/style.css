@@ -1,0 +1,21 @@
+p, a, h1, h2 {
+    color: #4c2410;
+}
+
+img {
+    float: left;
+    border: 2px darkgreen solid;
+    margin: 10px;
+}
+
+#content {
+    height: 400px;
+}
+
+#reference-content {
+    height: 1000px;
+}
+
+body {
+    background-color: #9bc79b;
+}
